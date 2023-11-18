@@ -6,7 +6,7 @@
 
 ## Usage
 
-Goto release page: https://github.com/spacemeowx2/slp-server-rust/releases, grab the latest release, and run it.
+Goto release page: https://github.com/DefenderOfHyrule/slp-server-rust/releases, grab the latest release, and run it.
 
 ## Build from source
 
